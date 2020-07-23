@@ -1,3 +1,8 @@
+# Gifs_Search_App
+
+App for search of Gifs in React.js
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
