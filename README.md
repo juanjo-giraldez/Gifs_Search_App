@@ -2,7 +2,7 @@
 
 Gif search application and display of animated gif results. Made in **React.js** with **Hooks**
 
-You can see it if you follow this link try it! =>[Gifs_Search_App](https://juanjo-giraldez.github.io/Gifs_Search_App/)
+You can see it if you follow this link, try it! =>[Gifs_Search_App](https://juanjo-giraldez.github.io/Gifs_Search_App/)
 
 ---
 
